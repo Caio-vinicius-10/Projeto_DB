@@ -153,3 +153,5 @@ Caio Vinicius
 
 GitHub:
 https://github.com/Caio-vinicius-10
+
+Este projeto faz parte do meu processo de aprendizado em desenvolvimento backend com Python.
